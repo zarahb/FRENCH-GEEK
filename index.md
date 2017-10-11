@@ -23,6 +23,8 @@
 <p>In this paragraph i am going to <u>underline this</u>, and then this is <strong>very important</strong>, and then this is <em>intalicised for effect</em>. For example,<em> oh No!</em> he cried.</p>
 
 <hr>
+<h3>Links and Images</h3>
+<p>First I'm going to link to <a href="https://www.youtube.com/?gl=GB&hl=en-GB"> youtube</a></p>
 
 ### Jekyll Themes
 
