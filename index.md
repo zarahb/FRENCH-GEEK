@@ -3,7 +3,26 @@
 <p>this is the first paragraph, there's not much goin on just yet.</p>
 
 <hr>
+<h4>Ordered lists have numbers</h4>
+<h2>Some HTML Formating stuff</h2>
+<h3>Lists</h3>
+<ol>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ol>
 
+<h4>UnOrdered lists have bullets</h4>
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
+
+<hr>
+
+<h3>Text styles</h3>
+<p>In this paragraph i am going to <u>underline this</u>, and then this is <strong>veryimportant</strong>, and then this is <em>intalicised for effect</em>. For example,<em> oh No!</em> he cried.</p>
+
+<hr>
 
 ### Jekyll Themes
 
