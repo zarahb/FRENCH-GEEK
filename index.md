@@ -1,8 +1,8 @@
-(h1)Language learning 101(/h1)
-(h2)Section One: What you can learn here.(/h2)
-(p)this is the first paragraph, there's not much goin on just yet.(/p)
+<h1>Language learning 101</h1>
+<h2>Section One: What you can learn here.</h2>
+<p>this is the first paragraph, there's not much goin on just yet.</p>
 
-(hr)
+<hr>
 
 
 ### Jekyll Themes
