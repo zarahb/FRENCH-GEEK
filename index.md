@@ -1,6 +1,6 @@
 <h1>Language learning 101</h1>
 <h2>Section One: What you can learn here.</h2>
-<p>this is the first paragraph, there's not much goin on just yet.</p>
+<p>This is the first paragraph, there's not much goin on just yet.</p>
 
 <hr>
 <h4>Ordered lists have numbers</h4>
@@ -20,7 +20,7 @@
 <hr>
 
 <h3>Text styles</h3>
-<p>In this paragraph i am going to <u>underline this</u>, and then this is <strong>veryimportant</strong>, and then this is <em>intalicised for effect</em>. For example,<em> oh No!</em> he cried.</p>
+<p>In this paragraph i am going to <u>underline this</u>, and then this is <strong>very important</strong>, and then this is <em>intalicised for effect</em>. For example,<em> oh No!</em> he cried.</p>
 
 <hr>
 
