@@ -26,7 +26,7 @@
 <h3>Links and Images</h3>
 <p>First I'm going to link to <a href="https://www.youtube.com/?gl=GB&hl=en-GB"> youtube</a></p>
 
-<img src="https://commons.wikimedia.org/wiki/File:Cute_grey_kitten.jpg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Cute_grey_kitten.jpg" />
 
 ### Jekyll Themes
 
