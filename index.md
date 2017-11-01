@@ -2,12 +2,14 @@
   <li>Home</li>
 </ul>
 <h1>Language learning 101</h1>
+<p>
+  <img src="img/Mauritius.jpg" style="width:50%;" />
+  </p>
+  
 <h2>Section One: What you can learn here.</h2>
 <p>This is the first paragraph, there's not much goin on just yet.</p>
 
-<p>
-  <img src="img/Mauritius.jpg" />
-  </p>
+
 
 <hr>
 <h4>Ordered lists have numbers</h4>
