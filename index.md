@@ -1,5 +1,5 @@
 <ul class="breadcrumb">
-  <li>Home</a></li>
+  <li>Home</li>
 </ul>
 <h1>Language learning 101</h1>
 <h2>Section One: What you can learn here.</h2>
