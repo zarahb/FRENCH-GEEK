@@ -5,6 +5,10 @@
 <h2>Section One: What you can learn here.</h2>
 <p>This is the first paragraph, there's not much goin on just yet.</p>
 
+<p>
+  <img src="img/Mauritius.jpg" />
+  </p>
+
 <hr>
 <h4>Ordered lists have numbers</h4>
 <h2>Some HTML Formating stuff</h2>
@@ -31,9 +35,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Cute_grey_kitten.jpg" />
 
-<p>
-  <img src="img/Mauritius.jpg" />
-  </p>
+
 
 ### Jekyll Themes
 
