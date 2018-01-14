@@ -6,7 +6,7 @@
 
 <h1>Listening<h1>
 <hr>
-<p>In order to perfect all aspects of your French, specifically speaking and wiriting it is important to hear French regualry from a range of different sources. The following exercises will help you to hear French from different sources. Answering the questions will help you to aplly what you have understood from the videos. An additional way to improve your listening skills is to watch movies in Frecnh as well as lkistening to French music. Suggestions of where to start will be liksted below.</p>
+<h2>In order to perfect all aspects of your French, specifically speaking and wiriting it is important to hear French regualry from a range of different sources. The following exercises will help you to hear French from different sources. Answering the questions will help you to aplly what you have understood from the videos. An additional way to improve your listening skills is to watch movies in Frecnh as well as lkistening to French music. Suggestions of where to start will be listed below.</h2>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S_xH7noaqTA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
