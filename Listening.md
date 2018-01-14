@@ -22,6 +22,8 @@
 <h5> Some other suggestions to help with French listening include: </h5>
 <ul>
   <li>Watching French news</li>
+  <a href="https://www.francetvinfo.fr/"> youtube</a>
   <li>Listening to French music</li>
+  <a href="https://www.youtube.com/watch?v=tOwuXkPIl-s"> youtube</a>
   <li>Watching French films</li>
 </ul>
