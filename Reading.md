@@ -37,4 +37,4 @@
 <p> Other useful sources to improve reading skills include:</p>
 <ul>
   <li> French books </li>
-  <a href="https://www.fluentu.com/blog/french/easy-read-french-books-french-learners/"></a>
+  <a href="https://www.fluentu.com/blog/french/easy-read-french-books-french-learners/"> </a>
