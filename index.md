@@ -24,7 +24,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kEpA5W42SL0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
  <hr>
  
- <p> <strong><u> Continue into French Geek to become an intermediate French speaker.Enjoy learning!</strong></u> </p>
+ <p><strong><u> Continue into French Geek to become an intermediate French speaker.Enjoy learning! </strong></u></p>
 
 
 Author: 160430840
