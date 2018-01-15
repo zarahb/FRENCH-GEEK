@@ -3,7 +3,7 @@
 </ul>
 <h1><u>Key to becoming an intermediate French speaker</u></h1>
 <p>
-  <iframe src="https://iphy.com/embeded/3oFzmfl86wJx2QfL44" width="480" height="270"frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3oFzmfl86wJx2QfL44">viaGIPHY</a></p>
+<iframe src="https://giphy.com/embed/3oFzmfI86wJx2QfL44" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3oFzmfI86wJx2QfL44">via GIPHY</a></p>
   </p>
   
 <h2>Section One: What you can learn here.</h2>
