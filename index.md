@@ -13,14 +13,12 @@
 
 <hr>
 
-<h3>Text styles</h3>
-<p>In this paragraph i am going to <u>underline this</u>, and then this is <strong>very important</strong>, and then this is <em>intalicised for effect</em>. For example,<em> oh No!</em> he cried.</p>
+<h3><u>How is French useful to you?</u></h3>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Map-Francophone_World.png" />
 
-<hr>
 <h3>Links and Images</h3>
 <p>First I'm going to link to <a href="https://www.youtube.com/?gl=GB&hl=en-GB"> youtube</a></p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Cute_grey_kitten.jpg" />
 
 
 
