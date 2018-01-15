@@ -8,7 +8,7 @@
   </ul>
 
 <h1>Vocabulary<h1>
-
+<h2> Learning new vocabularly is vital in order to become fluent in a language. New vocabulary can help you to write more complex as well as help your understanding in French 
 
 
 <p>Les animaux marins- Listening<p>
