@@ -31,3 +31,10 @@
 </ul>
 
 <iframe src="https://h5p.org/h5p/embed/169274" width="1090" height="395" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<hr>
+
+<p> Other useful sources to improve reading skills include:</p>
+<ul>
+  <li> French books </li>
+  
