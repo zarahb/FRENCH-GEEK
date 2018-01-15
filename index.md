@@ -6,25 +6,10 @@
 <iframe src="https://giphy.com/embed/3oFzmfI86wJx2QfL44" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3oFzmfI86wJx2QfL44">via GIPHY</a></p>
   
   
-<h2>Section One: What you can learn here.</h2>
-<p>This is the first paragraph, there's not much goin on just yet.</p>
+<h2>What you can learn here...</h2>
+<p>French Geek provides resources for students to expand their knowledge and learning in French. This website provides specific focus points in order to become an intermediate French speaker. These include Tenses, Listening, Reading, Writing and Vocbulary. The exercises on each page will help to test your existing knowledge as well as challenge new knowledge provided in the videos. Our aim at French Geek is to help you as students to achieve your goals and take French further as a language as well as engage in the culture.</p>
 
 
-
-<hr>
-<h4>Ordered lists have numbers</h4>
-<h2>Some HTML Formating stuff</h2>
-<h3>Lists</h3>
-<ol>
-  <li>Item 1</li>
-  <li>Item 2</li>
-</ol>
-
-<h4>UnOrdered lists have bullets</h4>
-<ul>
-  <li>Item 1</li>
-  <li>Item 2</li>
-</ul>
 
 <hr>
 
