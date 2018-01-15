@@ -6,9 +6,9 @@
   </ul>
 
 <h1>Reading<h1>
+<hr>
 
-
-<p><u>Read the text below and answer the questions</u></p>
+<h2><u>Read the text below and answer the questions</u></h2>
 
 <p>Cinq conseils pour une vie saine</p>
 <ul> 
