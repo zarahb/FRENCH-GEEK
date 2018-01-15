@@ -1,9 +1,9 @@
 <ul class="breadcrumb">
   <li>Home</li>
 </ul>
-<h1>Language learning 101</h1>
+<h1><u>Key to becoming an intermediate French speaker</u></h1>
 <p>
-  <img src="img/Mauritius.jpg" style="width:50%;" />
+  <iframe src="https://iphy.com/embeded/3oFzmfl86wJx2QfL44" width="480" height="270"frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3oFzmfl86wJx2QfL44">viaGIPHY</a></p>
   </p>
   
 <h2>Section One: What you can learn here.</h2>
