@@ -16,16 +16,14 @@
 <h3><u>How is French useful to you?</u></h3>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Map-Francophone_World.png" />
 
-<h3>Links and Images</h3>
-<p>First I'm going to link to <a href="https://www.youtube.com/?gl=GB&hl=en-GB"> youtube</a></p>
+<p>The map above shows all the Francophone countries in the world. Being able to speak and understand French does not only benefit you when visiting France but in fact many countries all over the world. There are over 75 million native French speakers in the world being the 18th most spoken language. Being able to communicate in French therefore provides you with ample opportunities when travelling as well as in a working environment. As well as this learning about other cultures allows you to integrate into our society better.
+  
+
+<p><strong>The video below will provide you with 9 reasons why learning French is important.</strong></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kEpA5W42SL0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zarahb/SML209/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
