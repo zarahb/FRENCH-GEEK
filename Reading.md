@@ -39,7 +39,7 @@
   <li> French books </li>
   <a href="https://www.fluentu.com/blog/french/easy-read-french-books-french-learners/">Books </a>
   <li> Memrise</li>
-  <a href="https://www.memrise.com/< Memrise</a>
+  <a href="https://www.memrise.com/"< Memrise</a>
   <li> French News </li>
-  <a href="https://www.francetvinfo.fr/> francetvinfo </a>
+  <a href="https://www.francetvinfo.fr/"> francetvinfo </a>
            
