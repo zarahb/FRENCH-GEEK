@@ -7,9 +7,9 @@
 
 <h1>Reading<h1>
 <hr>
-<p> It is essential to master the reading focus of language learning as this will benefit your listening, speaking and writing skills in French. In order to do this when reading texts in French as a learner you must always try to search for the meanings of any vocabulary that you may not know. Reading in French is something that can be done easily outside of a school environemnt. This could be by reading books or even watching a movie with French subtitles. It is important to continuously read in French in order to expand your knowledge and your French vocabulary. The following exercises will help you to test your reading skills and what you understand from several French texts.</p>
+<h2> It is essential to master the reading focus of language learning as this will benefit your listening, speaking and writing skills in French. In order to do this when reading texts in French as a learner you must always try to search for the meanings of any vocabulary that you may not know. Reading in French is something that can be done easily outside of a school environemnt. This could be by reading books or even watching a movie with French subtitles. It is important to continuously read in French in order to expand your knowledge and your French vocabulary. The following exercises will help you to test your reading skills and what you understand from several French texts.</h2>
   <hr>
-<h2><u>Read the text below and answer the questions</u></h2>
+<h3><u>Read the text below and answer the questions</u></h3>
 
 <p>Cinq conseils pour une vie saine</p>
 <ul> 
@@ -22,7 +22,7 @@
 <iframe src="https://h5p.org/h5p/embed/169258" width="1090" height="248" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <hr>
-<h3><u> Read the text and answer the questions below.</u></h3>
+<h4><u> Read the text and answer the questions below.</u></h4>
 <ul>
 <li>Emmanuel : Quand j'étais petit, mon grand-père me donnait un peu de vin, juste pour goûter. Moi, je n'aimais pas ça. Maintenant, j'ai quinze ans et j'aime bien l'alcool ! Mes parents détestent quand je bois trop à des fêtes. Ils croient que je bois comme ça tout le temps, mais ce n'est pas vrai : les boissons sont trop chères et je n'en achète pas ! Et puis, pas question de devenir alcoolique, je veux rester en bonne santé! </li>
 
