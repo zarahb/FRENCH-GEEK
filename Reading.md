@@ -7,7 +7,8 @@
 
 <h1>Reading<h1>
 <hr>
-
+<p> It is essential to master the reading focus of language learning as this will benefit your listening, speaking and writing skills in French. In order to do this when reading texts in French as a learner you must always try to search for the meanings of any vocabulary that you may not know. Reading in French is something that can be done easily outside of a school environemnt. This could be by reading books or even watching a movie with French subtitles. It is important to continuously read in French in order to expand your knowledge and your French vocabulary. The following exercises will help you to test your reading skills and what you understand from several French texts.</p>
+  <hr>
 <h2><u>Read the text below and answer the questions</u></h2>
 
 <p>Cinq conseils pour une vie saine</p>
