@@ -6,3 +6,12 @@
   </ul>
 
 <h1>Reading<h1>
+
+
+<p><u>Read the text below and answer the questions</u></P>
+<p>Cinq conseils pour une vie saine
+Mangez cinq portions de fruits par jour.
+Faites de l’exercice tous les jours.
+Dormez entre huit et neuf heures par nuit.
+Arrêtez de fumer.
+Buvez huit verres d’eau par jour.</p>
