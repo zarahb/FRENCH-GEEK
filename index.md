@@ -17,7 +17,7 @@
 <h3><u>How is French useful to you?</u></h3>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Map-Francophone_World.png" />
 
-<p>The map above shows all the Francophone countries in the world. Being able to speak and understand French does not only benefit you when visiting France but in fact many countries all over the world. There are over 75 million native French speakers in the world being the 18th most spoken language. Being able to communicate in French therefore provides you with ample opportunities when travelling as well as in a working environment. As well as this learning about other cultures allows you to integrate into our society better.
+<p>The map above shows all the Francophone countries in the world. Being able to speak and understand French does not only benefit you when visiting France but in fact many countries all over the world. French is the 18th most spoken language in the world with over 75 million native speakers. Being able to communicate in French therefore provides you with ample opportunities when travelling as well as in a working environment. As well as this learning about other cultures allows you to integrate into our society better.
   
 
 <p><strong>The video below will provide you with 9 reasons why learning French is important.</strong></p>
