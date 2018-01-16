@@ -7,7 +7,7 @@
 <h1>Listening<h1>
 <hr>
 
-<h2>In order to perfect all aspects of your French, specifically speaking and writing it is important to hear French regularly from a range of different sources. The following exercises will help you to do so. Answering the questions will help you to apply what you have understood from the videos. An additional way to improve your listening skills is to watch movies in French as well as listening to French music. Suggestions of where to start will be listed below.</h2>
+<h2>In order to perfect all aspects of your French, specifically speaking and writing, it is important to hear French regularly from a range of different sources. The following exercises will help you to do so. Answering the questions will help you to apply what you have understood from the videos. An additional way to improve your listening skills is to watch movies in French as well as listening to French music. Suggestions of where to start will be listed below.</h2>
 
 <h3> <u>Fill in the missing gaps exercise</u> </h3>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S_xH7noaqTA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
