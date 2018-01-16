@@ -7,7 +7,7 @@
   </ul>
 
 <h1>Writing<h1>
-
+<p> Speaking, Listening and Reading skills are all very important in order to improve your writing in French. 
  
 <iframe src="https://giphy.com/embed/3oFzmfI86wJx2QfL44" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3oFzmfI86wJx2QfL44">via GIPHY</a></p>
 
