@@ -7,11 +7,12 @@
   </ul>
 
 <h1>Writing<h1>
+
 <hr>
-<h2> Speaking, Listening and Reading skills are all very important in order to improve your writing in French. In order to write well it important to be aware of  range of different vocabulary as well as greatly understanding French grammar. These exercises will help you to improve your French writing and your grammar </h2>
+
+<h2>Speaking, Listening and Reading skills are all very important in order to improve your writing in French. In order to write well it important to be aware of  range of different vocabulary as well as greatly understanding French grammar. These exercises will help you to improve your French writing and your grammar</h2>
  
- <hr>
- 
+
 <iframe src="https://giphy.com/embed/3oFzmfI86wJx2QfL44" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3oFzmfI86wJx2QfL44">via GIPHY</a></p>
 
 <h3> <u>Spot the grammar mistakes</u> </h3>
